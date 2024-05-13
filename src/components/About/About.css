@@ -1,0 +1,65 @@
+.about-section .container {
+  width: 65%;
+}
+.about-caption h4 {
+  margin-bottom: 15px;
+  display: block;
+  font-size: 10px;
+  text-transform: uppercase;
+  color: #999;
+  font-weight: 500;
+  letter-spacing: 5px;
+  font-family: Quicksand, Arial, sans-serif;
+}
+.about-caption h2 {
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  line-height: 1.8;
+  position: relative;
+  margin: 0 0 30px;
+  color: #000;
+  font-family: Playfair Display, Georgia, serif;
+}
+.about-caption p {
+  margin-bottom: 1.5em;
+  font-family: Quicksand, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.8;
+  color: #000000b3;
+}
+.cards .about-card .card-inner {
+  /* margin-bottom: 80px; */
+  /* position: relative;
+  z-index: 0; */
+  box-shadow: 0 0 56px -8px #0000002b;
+  border-bottom: 2px solid #2c98f0;
+  padding: 1.5em;
+}
+.cards .about-card .card-inner h3 {
+  font-size: 16px;
+  font-weight: 500;
+}
+.cards .about-card .brd-red {
+  border-bottom: 2px solid #ec5453;
+}
+.cards .about-card .brd-yellow {
+  border-bottom: 2px solid #f9bf3f;
+}
+.cards .about-card .brd-purple {
+  border-bottom: 2px solid #a84cb8;
+}
+.cards .about-card .fa-lightbulb {
+  color: #2c98f0;
+}
+.cards .about-card .fa-earth-africa {
+  color: #ec5453;
+}
+.cards .about-card .fa-database {
+  color: #f9bf3f;
+}
+.cards .about-card .fa-mobile-screen-button {
+  color: #a84cb8;
+}

@@ -1,0 +1,50 @@
+.experience-section .container {
+  width: 65%;
+}
+.experience-section h4 {
+  margin-bottom: 15px;
+  display: block;
+  font-size: 10px;
+  text-transform: uppercase;
+  color: #999;
+  font-weight: 500;
+  letter-spacing: 5px;
+  font-family: Quicksand, Arial, sans-serif;
+}
+.experience-section h2 {
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  line-height: 1.8;
+  position: relative;
+  margin: 0 0 30px;
+  color: #000;
+  font-family: Playfair Display, Georgia, serif;
+}
+.experience-section p {
+  font-family: Quicksand, Arial, sans-serif;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.6875rem;
+  color: #000000b3;
+}
+.bullets .fa-icon {
+  /* background-color: #2c98f0; */
+  width: 3.5rem;
+  height: 3.5rem;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  /* position: relative; */
+  /* z-index: 100; */
+}
+
+.exp-text {
+  background-color: #f2f3f7;
+}
+.exp-text h5 span {
+  font-size: medium;
+}

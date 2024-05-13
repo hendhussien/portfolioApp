@@ -1,0 +1,81 @@
+.skills-section .container {
+  width: 65%;
+}
+.skills-caption h4 {
+  margin-bottom: 15px;
+  display: block;
+  font-size: 10px;
+  text-transform: uppercase;
+  color: #999;
+  font-weight: 500;
+  letter-spacing: 5px;
+  font-family: Quicksand, Arial, sans-serif;
+}
+.skills-caption h2 {
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  line-height: 1.8;
+  position: relative;
+  margin: 0 0 30px;
+  color: #000;
+  font-family: Playfair Display, Georgia, serif;
+}
+.skills-caption p {
+  margin-bottom: 1.5em;
+  font-family: Quicksand, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.8;
+  color: #000000b3;
+  text-transform: none;
+}
+.skills-bars .skill p {
+  font-size: 16px;
+  font-family: Quicksand, Arial, sans-serif;
+  font-weight: 400;
+  color: #000;
+  margin: 25px 0 0;
+}
+.skills-section .progress {
+  height: 0.5rem;
+  /* position: relative; */
+}
+.skills-section .w-60 {
+  width: 60%;
+}
+.skills-section .w-80 {
+  width: 80%;
+}
+.skills-section .w-90 {
+  width: 90%;
+}
+.skills-section .w-85 {
+  width: 85%;
+}
+.skills-section .w-70 {
+  width: 70%;
+}
+.skills-section .bg-purple {
+  background-color: #a84cb8;
+}
+.skills-section .text-purple {
+  color: #a84cb8;
+}
+.skills-section .bg-darkBlue {
+  background-color: #4054b2;
+}
+.skills-section .text-darkBlue {
+  color: #4054b2;
+}
+/* .skills-section .progress::after {
+  content: "hiii";
+  position: absolute;
+  bottom: 100%;
+  right: 0;
+  font-size: 12px;
+  font-weight: 700;
+  margin-bottom: 5px;
+  color: #000;
+} */
